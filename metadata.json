@@ -1,0 +1,6 @@
+{
+  "name": "SaveIQ",
+  "description": "AI-powered personal finance and savings management platform with goal tracking, AI Coach, analytics, and automated reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
